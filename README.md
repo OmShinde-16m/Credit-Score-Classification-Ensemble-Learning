@@ -60,8 +60,7 @@ Follow these steps to set up and run the project in Google Colab:
 
 ### 2. Open the Colab Notebook
 
-- [Open the notebook in Google Colab](https://colab.research.google.com/github/your-username/credit-score-classification-ensemble/blob/main/credit_score_classification.ipynb)
-  *(Replace this with your actual notebook link)*
+https://colab.research.google.com/drive/1r5EB4WARWp-146UMxSPjrCkb06uajLzC?usp=sharing
 
 ### 3. Upload Data
 
@@ -160,7 +159,8 @@ git push origin feature/your-feature
 
 ## Output Screenshot
 
-*Sample confusion matrix from the notebook. Add your own screenshots for better illustration.*
+<img width="1063" height="655" alt="image" src="https://github.com/user-attachments/assets/f4912c5e-7346-4fcf-af35-4af185e97705" />
+
 
 ---
 
